@@ -70,7 +70,7 @@
     "styled-system": "^5.1.5"
   },
   "devDependencies": {
-    "@npmcli/template-oss": "4.11.0",
+    "@npmcli/template-oss": "4.29.0",
     "@testing-library/jest-dom": "^5.16.5",
     "babel-jest": "^29.3.1",
     "eslint": "^8.29.0",
